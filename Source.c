@@ -1,7 +1,7 @@
 /*
-Written by: Bello Abarchi, Fred Zeder, Leslie Recendiz
+Written by: Bello Abarchi
 Date: October 2017
-Purpose: Battleship, Exam 2
+Purpose: Battleship
 Professor: Hunchuck
 */
 
